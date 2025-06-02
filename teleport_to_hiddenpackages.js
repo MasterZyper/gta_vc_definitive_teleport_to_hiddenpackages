@@ -12,7 +12,7 @@
 
 let teleportIndex = 0;
 
-// List of all Packages tanks to https://gtamods.com/wiki/Collectibles
+// List of all Packages thanks to https://gtamods.com/wiki/Collectibles
 const hiddenPackagePositions = [
     { x: 479.6, y: -1718.5, z: 15.6 },
     { x: 708.4, y: -498.2, z: 12.3 },
